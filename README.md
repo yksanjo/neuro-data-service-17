@@ -1,5 +1,12 @@
 # neuro-data-service-17
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/neuro-data-service-17/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/neuro-data-service-17/actions)
+![License](https://img.shields.io/github/license/yksanjo/neuro-data-service-17)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/neuro-data-service-17)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/neuro-data-service-17)
+
 ## Detailed Description
 
 neuro-data-service-17 is maintained as an industry-grade software project with production-ready engineering practices.  
